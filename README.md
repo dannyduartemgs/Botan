@@ -1,4 +1,4 @@
-# Botan
+# Shishiro Botan
 Shishiro Botan from Hololive comes to Risk of Rain as a skin for Deputy
 
 Thanks to Bog for the Deputy Character.
